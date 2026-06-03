@@ -1,5 +1,5 @@
 # Online-Student-Feedback-System
-A project build as a part of course CO303 - Database Management Systems Lab[CSE NITK SEM-5]
+A project build as a part of course FYUGP - PROJECT AND PRESENTATION Lab[CSC PKC SEM-6]
 
 
 ### Home Page
